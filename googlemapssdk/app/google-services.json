@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758965120241",
+    "firebase_url": "https://hangoutio-43220.firebaseio.com",
+    "project_id": "hangoutio-43220",
+    "storage_bucket": "hangoutio-43220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758965120241:android:6fc51c59a6242a2d6acd50",
+        "android_client_info": {
+          "package_name": "com.hackthevalley.hangoutIO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758965120241-rda4rru18ure0gtpjb9rn4bd2bbp6lhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-S8AUSsoJgowhz_SZs79qluxAwNZs-pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758965120241-rda4rru18ure0gtpjb9rn4bd2bbp6lhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
